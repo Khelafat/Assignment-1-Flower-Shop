@@ -243,25 +243,25 @@
 
 .footer-heading {
     color: #E55473;
-    font-size: 48px;
-    font-weight: 800;
+    font-size: 50px;
+    font-weight: 750;
     padding-top: 100px;
 }
 
 .footer-colour {
-    color: rgba(255, 255, 255, 1)
+    color: rgb(255, 251, 251)
 }
 
 .footer-description {
-    color: rgba(255, 255, 255, 0.90);
-    font-size: 18px;
-    font-weight: 400;
+    color: rgba(255, 251, 251, 0.9);
+    font-size: 20px;
+    font-weight: 350;
     line-height: 30px;
     padding: 25px 0px 30px 0px;
 }
 
 .footer-copyright {
-    color: rgba(255, 255, 255, 0.40);
+    color: rgba(248, 246, 246, 0.4);
     font-family: Lato;
     font-size: 16px;
     font-weight: 400;
